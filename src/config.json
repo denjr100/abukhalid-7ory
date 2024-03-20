@@ -1,0 +1,36 @@
+{
+    "options": [
+        {
+            "name": "الإدارة",
+            "admins": ["707813418924769281", "user_id"],
+            "image": "https://media.discordapp.net/attachments/1218884007790383168/1219788756937347102/logfgdg5yy.png?ex=660c93ce&is=65fa1ece&hm=760aa33668b0d0484e447069ea54205649b55bca241018511faf80d0af715b69&=&format=webp&quality=lossless",
+            "emoji": "⚙️",
+            "logchannel": "1220044437569142815",
+            "role": "1220021689333842042"
+        },
+        {
+            "name": "وزارة الصحة",
+            "admins": ["707813418924769281", "user_id"],
+            "image": "https://media.discordapp.net/attachments/1218884007790383168/1219788756937347102/logfgdg5yy.png?ex=660c93ce&is=65fa1ece&hm=760aa33668b0d0484e447069ea54205649b55bca241018511faf80d0af715b69&=&format=webp&quality=lossless",
+            "emoji": "💉",
+            "logchannel": "1220044437569142815",
+            "role": "1220021689333842042"
+        },
+        {
+            "name": "الأمن العام",
+            "admins": ["707813418924769281", "user_id"],
+            "image": "https://media.discordapp.net/attachments/1218884007790383168/1219788756937347102/logfgdg5yy.png?ex=660c93ce&is=65fa1ece&hm=760aa33668b0d0484e447069ea54205649b55bca241018511faf80d0af715b69&=&format=webp&quality=lossless",
+            "emoji": "👮🏼",
+            "logchannel": "1220044437569142815",
+            "role": "1220021689333842042"
+        },
+        {
+            "name": "قروف سترريت",
+            "admins": ["707813418924769281", "user_id"],
+            "image": "https://media.discordapp.net/attachments/1218884007790383168/1219788756937347102/logfgdg5yy.png?ex=660c93ce&is=65fa1ece&hm=760aa33668b0d0484e447069ea54205649b55bca241018511faf80d0af715b69&=&format=webp&quality=lossless",
+            "emoji": "⚜️",
+            "logchannel": "1220044437569142815",
+            "role": "1220021689333842042"
+        }
+    ]
+}
